@@ -10,36 +10,22 @@
 
 ---
 
-## Site Survey App
+### 1. Site Survey App  
+**Tech Stack:** Java, Spring Boot, SQL Server, JWT  
 
-Tech Stack: Java, Spring Boot, SQL Server, JWT
+Captures geo-tagged survey data for smart meter feasibility, asset location, and network readiness.
 
 **My Role:**
-- Developed microservices
-- JWT-secured APIs
-- Asset validation logic
+- Developed backend microservices for survey data collection  
+- Handled asset validation & geolocation inputs  
+- JWT-secured APIs for mobile app communication  
 
-**Screenshots:**
-
-<a href="Site Survey 1.jpeg" target="_blank">
-  <img src="Site Survey 1.jpeg" width="300"/>
-</a>
-
-<a href="Site Survey 2.jpeg" target="_blank">
-  <img src="Site Survey 2.jpeg" width="300"/>
-</a>
-
-<a href="Site Survey 3.jpeg" target="_blank">
-  <img src="Site Survey 3.jpeg" width="300"/>
-</a>
-
-<a href="Site Survey 4.jpeg" target="_blank">
-  <img src="Site Survey 4.jpeg" width="300"/>
-</a>
-
-<a href="Site Survey Login.jpeg" target="_blank">
-  <img src="Site Survey Login.jpeg" width="300"/>
-</a>
+**Screenshots:**  
+<a href="Site Survey 1.jpeg" target="_blank"><img src="Site Survey 1.jpeg" width="300"/></a>  
+<a href="Site Survey 2.jpeg" target="_blank"><img src="Site Survey 2.jpeg" width="300"/></a>  
+<a href="Site Survey 3.jpeg" target="_blank"><img src="Site Survey 3.jpeg" width="300"/></a>  
+<a href="Site Survey 4.jpeg" target="_blank"><img src="Site Survey 4.jpeg" width="300"/></a>  
+<a href="Site Survey Login.jpeg" target="_blank"><img src="Site Survey Login.jpeg" width="300"/></a>  
 
 ---
 
@@ -66,10 +52,10 @@ Used by field engineers to install, repair, and raise tickets for smart meter ma
 - API testing via Postman  
 
 **Screenshots:**  
-[![I & M 1](I & M 1.png)](I & M 1.png)  
-[![I & M 2](I & M 2.png)](I & M 2.png)  
-[![I & M 3](I & M 3.png)](I & M 3.png)  
-[![I & M 4](I & M 4.png)](I & M 4.png)
+<a href="I & M 1.png" target="_blank"><img src="I & M 1.png" width="300"/></a>  
+<a href="I & M 2.png" target="_blank"><img src="I & M 2.png" width="300"/></a>  
+<a href="I & M 3.png" target="_blank"><img src="I & M 3.png" width="300"/></a>  
+<a href="I & M 4.png" target="_blank"><img src="I & M 4.png" width="300"/></a>  
 
 ---
 
@@ -84,7 +70,7 @@ Used for managing hierarchical administrative levels (Region → Substation).
 - Hierarchical lookup logic  
 
 **Screenshot:**  
-[![Admin Hierarchy](Admin Hierarchy DashBoard.jpeg)](Admin Hierarchy DashBoard.jpeg)
+<a href="Admin Hierarchy DashBoard.jpeg" target="_blank"><img src="Admin Hierarchy DashBoard.jpeg" width="300"/></a>
 
 ---
 
@@ -111,7 +97,7 @@ A React app to search and display movie details.
 - Responsive UI  
 
 **Screenshot:**  
-[![Movie App](Movie Search Web Application.png)](Movie Search Web Application.png)
+<a href="Movie Search Web Application.png" target="_blank"><img src="Movie Search Web Application.png" width="300"/></a>
 
 ---
 
@@ -124,6 +110,5 @@ A React app to search and display movie details.
 
 ---
 
-## Note
-
+## Note  
 This is a private portfolio repository. Please contact me for access to specific source code or to view live microservices upon request.

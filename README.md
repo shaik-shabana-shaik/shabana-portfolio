@@ -10,22 +10,36 @@
 
 ---
 
-### 1. Site Survey App  
-**Tech Stack:** Java, Spring Boot, SQL Server, JWT  
+## Site Survey App
 
-Captures geo-tagged survey data for smart meter feasibility, asset location, and network readiness.
+Tech Stack: Java, Spring Boot, SQL Server, JWT
 
 **My Role:**
-- Developed backend microservices for survey data collection  
-- Handled asset validation & geolocation inputs  
-- JWT-secured APIs for mobile app communication  
+- Developed microservices
+- JWT-secured APIs
+- Asset validation logic
 
-**Screenshots:**  
-[![Site Survey 1](Site Survey 1.jpeg)](Site Survey 1.jpeg)  
-[![Site Survey 2](Site Survey 2.jpeg)](Site Survey 2.jpeg)  
-[![Site Survey 3](Site Survey 3.jpeg)](Site Survey 3.jpeg)  
-[![Site Survey 4](Site Survey 4.jpeg)](Site Survey 4.jpeg)  
-[![Site Survey Login](Site Survey Login.jpeg)](Site Survey Login.jpeg)
+**Screenshots:**
+
+<a href="Site Survey 1.jpeg" target="_blank">
+  <img src="Site Survey 1.jpeg" width="300"/>
+</a>
+
+<a href="Site Survey 2.jpeg" target="_blank">
+  <img src="Site Survey 2.jpeg" width="300"/>
+</a>
+
+<a href="Site Survey 3.jpeg" target="_blank">
+  <img src="Site Survey 3.jpeg" width="300"/>
+</a>
+
+<a href="Site Survey 4.jpeg" target="_blank">
+  <img src="Site Survey 4.jpeg" width="300"/>
+</a>
+
+<a href="Site Survey Login.jpeg" target="_blank">
+  <img src="Site Survey Login.jpeg" width="300"/>
+</a>
 
 ---
 

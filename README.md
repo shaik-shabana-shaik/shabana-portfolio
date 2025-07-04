@@ -2,7 +2,7 @@
 
 **Email:** shabanashaik732@gmail.com  
 **Role:** Java Backend Developer | Spring Boot | React.js  
-**GitHub:** [github.com/shabanashaik732](https://github.com/shabanashaik732)  
+**GitHub:** [github.com/shaik-shabana-shaik](https://github.com/shaik-shabana-shaik)  
 
 ---
 

@@ -46,7 +46,7 @@ A simple React web app that lets users search for movies and view details using 
 ### Admin Hierarchy Dashboard  
 **Tech Stack:** Java, Spring Boot, SQL Server  
 **Description:**  
-A backend system to manage hierarchical administrative levels (Region > Circle > Division > Section > Substation).
+A backend system to manage hierarchical administrative levels (Region > Circle > Division > Sub Division > Section > Substation).
 
 **My Contributions:**  
 - CRUD microservices with Spring Data JPA  
@@ -60,7 +60,7 @@ A backend system to manage hierarchical administrative levels (Region > Circle >
 ## Skills
 
 - **Backend:** Java, Spring Boot, REST APIs, Spring Security  
-- **Frontend:** React.js (3 months)  
+- **Frontend:** React.js  
 - **Database:** SQL Server  
 - **Tools:** Git, Postman, IntelliJ, VS Code
 
